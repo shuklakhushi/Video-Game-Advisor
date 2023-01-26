@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Video Game Advisorss</string>
+    <string name="find_game">Find Game</string>
+    <string name="video_game_types">Video Game Types</string>
+    <string name="game_title">Game Title</string>
+    <string name="game_info">Game Info</string>
+    <string-array name="game_genres">
+        <item>Action</item>
+        <item>Adventure</item>
+        <item>Strategy</item>
+        <item>Sports</item>
+        <item>RPG</item>
+    </string-array>
+</resources>
